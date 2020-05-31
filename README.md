@@ -1,9 +1,5 @@
 # İstanbul Büyükşehir Belediyesi Deprem Hackathonu
 
-Proje Demosunu İzlemek için Resme Tıklayın:
-
-[![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
-
 ## Hasar Tespit İletişim Sistemi (HATİS)
 
 İstanbul'da gerçekleşecek olan deprem sonrasında, en kısa sürede Yapay Zeka (görüntü işleme teknolojisi) kullanılarak hasar tespitinin yapılması ve bunun sonucunda kurumları (AFAD, AKOM, AKUT, STK'lar ve yabancı ekiplerin) Optimizasyon ile organize ederek doğru kaynağı doğru noktaya yönlendirerek uçtan uca çözüm üretmektir.
