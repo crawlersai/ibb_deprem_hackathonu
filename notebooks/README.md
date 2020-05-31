@@ -8,7 +8,7 @@ Bu notebook gelistirdiğimiz makine öğrenmesi algoritmasının ayrıntıların
 
 ## predict_video
 
-Bu notebook kullanıcıdan bir adet video alır. Geliştirdiğimiz makine öğrenmesine sokulan video, sol üst köşesine tahmin edilen hasarlı olma ihtimalinin anlık değişimi bastırılarak verilen lokasyona kaydedilir.
+Bu notebook kullanıcıdan bir adet video alır. Geliştirdiğimiz makine öğrenmesine sokulan video, sol üst köşesine tahmin edilen hasarlı olma ihtimalinin anlık değişimi bastırılarak verilen lokasyona kaydedilir. Örnek video için aşağıdaki resme tıklayın:
 
 [![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
 

@@ -1,5 +1,9 @@
 # İstanbul Büyükşehir Belediyesi Deprem Hackathonu
 
+Proje Demosunu İzlemek için Resme Tıklayın:
+
+[![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
+
 ## Hasar Tespit İletişim Sistemi (HATİS)
 
 İstanbul'da gerçekleşecek olan deprem sonrasında, en kısa sürede Yapay Zeka (görüntü işleme teknolojisi) kullanılarak hasar tespitinin yapılması ve bunun sonucunda kurumları (AFAD, AKOM, AKUT, STK'lar ve yabancı ekiplerin) Optimizasyon ile organize ederek doğru kaynağı doğru noktaya yönlendirerek uçtan uca çözüm üretmektir.
@@ -9,8 +13,14 @@
 
 Deprem Hackathonu resmi sayfası: https://depremhackathonu.ibb.istanbul/
 
-## Proje Detayı
 
+Proje demosunu izlemek için aşağıdaki resme tıklayın:
+
+[![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
+
+<br>
+
+## Proje Detayı
 
 ![surec2](figures/surec2.PNG)
 
@@ -44,8 +54,6 @@ Elde edilen görüntüler, yapay zeka modeline girmeden önce ayrıştırılmas�
 Elde edilen görüntülerle Yapay zeka algoritmaları kullanarak, her bir yerleşim yerinin hasarlı olup olmadığı, hasarlı ise yüzde kaç hasarlı olduğu tespit edilmektedir. Tüm binaların ve yolların hasar oranı kullanılarak, hasar haritası oluşturulmakta ve bu harita sayesinde de doğru aksiyonlar alınmaktadır. Hasar tespiti için geliştirdiğimiz derin öğrenme algoritmamızı ve demoları [Jupyter Notebook'lardan](notebooks/) inceleyebilirsiniz.
 
 ![deprem_ornek](figures/deprem_ornek.png) 
-
-[![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
 
 
 ### Hasar Haritası
