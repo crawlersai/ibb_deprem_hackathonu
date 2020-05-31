@@ -58,6 +58,7 @@ Elde edilen görüntülerle Yapay zeka algoritmaları kullanarak, her bir yerle�
 
 ![hasar_haritasi](figures/hasar_haritasi.png) 
 
+<br>
 
 ## Aksiyon Planlama
 
