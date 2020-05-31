@@ -25,7 +25,7 @@ Deprem Hackathonu resmi sayfası: https://depremhackathonu.ibb.istanbul/
 
 ![imaj1](figures/imaj1.jpeg)
 
-![imaj2](figures/imaj1.gif) 
+![imaj2](figures/imaj2.gif) 
 
 ⦁ İBB Kameraları: Hali hazıra İBB tarafından kullanımda olan, Trafik kameraları, Turist kameraları, Şehir kameraları kullanılarak, kameraların çevresindeki yerleşim yerleri ve yolların görüntüleri elde edilebilir. Küçük Çamlıca'da inşa edilen radyo kulesi gibi kameraların sayısı arttırılarak, İHA ve Drone ihtiyacı olmadan da görüntüler sadece İBB'nin iç kaynakları da elde edilebilir olacaktır.
 
@@ -48,7 +48,9 @@ Elde edilen görüntülerle Yapay zeka algoritmaları kullanarak, her bir yerle�
 
 İstanbul'un tüm yerleşim yerlerine ait hasar oranı ve İBB'nin veri kaynaklarından elde edilen adrese dayalı nüfus bilgisi kullanılarak, harita üzerinde bina hasar dağılımı ve nüfus hasar dağılımı elde edilmektedir. Her bir ilçenin kendi nüfuslarına göre hasar oranları görülebildiği gibi, ilçelerin İstanbul içindeki hasar oranlarına da ulaşılabilmektedir.
 
-<div class='tableauPlaceholder' id='viz1590941390245' style='position: relative'><noscript><a href='http:&#47;&#47;34.75.221.205&#47;hasar-haritasi.html'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DepremDashboard&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DepremDashboard&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DepremDashboard&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1590941390245');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1080px';vizElement.style.height='1947px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1080px';vizElement.style.height='1947px';} else { vizElement.style.width='100%';vizElement.style.height='1627px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+![hasar_haritasi](figures/hasar_haritasi.png) 
+
+
 
 ## Ekip
 
