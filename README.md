@@ -56,7 +56,7 @@ Elde edilen görüntülerle Yapay zeka algoritmaları kullanarak, her bir yerle�
 
 * Sabri Suyunu ([GitHub](https://github.com/suyosunu)) ([LinkedIn](https://www.linkedin.com/in/suyunu/))
 * Burak Suyunu ([GitHub](https://github.com/suyunu)) ([LinkedIn](https://www.linkedin.com/in/burak-suyunu/))
-* Yavuz Selim Elmas ([LinkedIn](https://www.linkedin.com/in/yselmas/))
+* Yavuz Selim Elmas ([GitHub](https://github.com/yasinsancaktutan)) ([LinkedIn](https://www.linkedin.com/in/yselmas/))
 * Mehmet Emin Öztürk ([GitHub](https://github.com/meminozturk)) ([LinkedIn](https://www.linkedin.com/in/meminozturk/))
 * Berk Baytar ([GitHub](https://github.com/BerkBaytar)) ([LinkedIn](https://www.linkedin.com/in/berkbaytar/))
 
