@@ -16,4 +16,6 @@ Bu notebook kullanıcıdan bir adet resim alır. Geliştirdiğimiz makine öğre
 
 ## predict_pdf
 
-Bu notebook kullanıcıdan bir adet resimler içeren klasör alır. Bütün resimler öncelikle geliştirdiğimiz makine öğrenmesine sokulur. Çıktı olarak ise resimler ve resimlerin hasarlı olma ihtimallerinin bulunduğu bir pdf oluşturabilirsiniz. Oluşturulan PDF'te resimler hasar ihtimali en yüksekten en düşüğe doğru sıralanacaklardır. Ayrıca IPython Widget'ları ile notebook üzerinden resimleri tek tek inceleyebilirsiniz (Bunun için notebook'u uygun bir ortamda (lokalinizde veya Colab gibi) çalıştırmanız gerekir).
+Bu notebook kullanıcıdan bir adet resimler içeren klasör alır. Bütün resimler öncelikle geliştirdiğimiz makine öğrenmesine sokulur. Çıktı olarak ise resimler ve resimlerin hasarlı olma ihtimallerinin bulunduğu bir pdf oluşturabilirsiniz ([Ornek PDF](hasar_oranlari.pdf)). Oluşturulan PDF'te resimler hasar ihtimali en yüksekten en düşüğe doğru sıralanacaklardır. Ayrıca IPython Widget'ları ile notebook üzerinden resimleri tek tek inceleyebilirsiniz (Bunun için notebook'u uygun bir ortamda (lokalinizde veya Colab gibi) çalıştırmanız gerekir).
+
+predict_pdf.ipynb
