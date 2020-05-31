@@ -45,7 +45,7 @@ Elde edilen görüntülerle Yapay zeka algoritmaları kullanarak, her bir yerle�
 
 ![deprem_ornek](figures/deprem_ornek.png) 
 
-[![Drone Hasar Tespit Videosu](https://www.youtube.com/watch?v=G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
+[![Drone Hasar Tespit Videosu](https://img.youtube.com/vi/G46-tUq9-20/0.jpg)](https://www.youtube.com/watch?v=G46-tUq9-20)
 
 
 ### Hasar Haritası
